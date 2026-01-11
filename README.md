@@ -29,6 +29,7 @@ The goal of Phase 1 is to ensure that:
 
 ## Application Functionality
 Currently, the application exposes a single endpoint:
+GET /health
 This endpoint is used to verify that the application is running successfully.
 
 ---
