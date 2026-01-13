@@ -1,2 +1,4 @@
 com/annu/loginapp/LoginAppApplication.class
 com/annu/loginapp/controller/LoginController.class
+com/annu/loginapp/repository/UserRepository.class
+com/annu/loginapp/entity/User.class

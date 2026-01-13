@@ -52,3 +52,23 @@ http://localhost:8080/health
 
 ### Expected response:
 Application is running
+
+---
+
+## Phase 2 – Database Integration
+
+In Phase 2, the database layer was enabled and integrated with the application.
+
+### What was added
+- MySQL database
+- Application-specific database user
+- Spring Data JPA
+- Hibernate ORM
+
+### Database Details
+- Database: logindb
+- Database Engine: MySQL
+- ORM: Hibernate (via JPA)
+
+The application now successfully connects to the database during startup.
+
